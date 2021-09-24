@@ -1,0 +1,11 @@
+
+
+
+spring:
+  redis:
+    connect-timeout: 1000
+    port: 6379
+    password: echoshen
+
+server:
+  port: 12536
